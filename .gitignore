@@ -54,4 +54,8 @@ cover/
 
 # Workbench Project Layout
 data/scratch/*
+data/downloads/*
+data/embeddings/*
+data/enron_extracted/*
+data/maildir/*
 !data/scratch/.gitkeep

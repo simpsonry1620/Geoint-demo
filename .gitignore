@@ -59,3 +59,6 @@ data/embeddings/*
 data/enron_extracted/*
 data/maildir/*
 !data/scratch/.gitkeep
+
+# Models
+models/*

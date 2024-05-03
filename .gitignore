@@ -62,3 +62,6 @@ data/maildir/*
 
 # Models
 models/*
+
+# Logs
+code/*.log

@@ -32,6 +32,13 @@ cross_encoder_models = ['cross-encoder/ms-marco-MiniLM-L-12-v2',
                         'cross-encoder/ms-marco-MiniLM-L-2-v2'
                         'cross-encoder/ms-marco-TinyBERT-L-2-v2',
                         'cross-encoder/mmarco-mdeberta-v3-base-5negs-v1']
+
+# Multilingual Models
+multilingual_models = ['intfloat/multilingual-e5-large',
+                       'intfloat/multilingual-e5-base',
+                       'intfloat/multilingual-e5-small',
+                                             
+                      ]
                         
 sentence_models = ['all-distilroberta-v1',
                    'allenai-specter',

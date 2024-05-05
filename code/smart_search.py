@@ -37,7 +37,9 @@ cross_encoder_models = ['cross-encoder/ms-marco-MiniLM-L-12-v2',
 multilingual_models = ['intfloat/multilingual-e5-large',
                        'intfloat/multilingual-e5-base',
                        'intfloat/multilingual-e5-small',
-                                             
+                       'distiluse-base-multilingual-cased-v2',
+                       'multi-qa-MiniLM-L6-cos-v1',
+                       'stsb-xlm-r-multilingual'
                       ]
                         
 sentence_models = ['all-distilroberta-v1',
